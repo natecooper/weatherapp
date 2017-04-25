@@ -1,0 +1,27 @@
+body {
+	font-family: sans-serif;
+	line-height: 1.4;
+	margin: 30px;
+}
+
+#notification {
+	background: #eee;
+	padding: 10px;
+	border: 1px solid #ccc;
+}
+
+.error {
+	background: #fee;
+	border-color: #c66;
+}
+
+
+.message {
+	background: #ffe;
+	padding: 15px;
+	border: 2px solid #ccb;
+	margin: 10px 0;
+	border-radius: 10px;
+}
+
+
