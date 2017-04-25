@@ -10,12 +10,6 @@ body {
 	border: 1px solid #ccc;
 }
 
-.error {
-	background: #fee;
-	border-color: #c66;
-}
-
-
 .message {
 	background: #ffe;
 	padding: 15px;
